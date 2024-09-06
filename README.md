@@ -19,4 +19,4 @@ To write a python program to implement sliding window protocol
 ![Screenshot 2024-09-06 140821](https://github.com/user-attachments/assets/636f547a-e02a-43f5-ab65-11772c819234)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus python program to perform sliding window protocol was successfully executed 
